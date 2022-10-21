@@ -1,6 +1,6 @@
 # Yi-Ban_clock-in
-易班自动打卡
-简单配置:
+<h1>易班自动打卡</h1>
+<h2>简单配置</h2>
 如果运行daka.py提示缺少requests，requests安装：pip install requests
 daka.py里面的中文都要url编码，不然可能出现乱码，url编码解码：http://tool.chinaz.com/tools/urlencode.aspx
 以及start中的daka.py的文件绝对路径要改成自己的daka.py文件绝对路径
