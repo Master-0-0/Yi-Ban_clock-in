@@ -1,0 +1,6 @@
+schtasks /Create /TN morning /SC DAILY /ST 07:05 /TR "‪python ‪C:\Users\Master\Desktop\daka1.1\daka.py"
+schtasks /Create /TN morning2 /SC DAILY /ST 08:05 /TR "python ‪‪C:\Users\Master\Desktop\daka1.1\daka.py"
+schtasks /Create /TN noon /SC DAILY /ST 12:05 /TR "python ‪C:\Users\Master\Desktop\daka1.1\daka.py"
+schtasks /Create /TN noon2 /SC DAILY /ST 13:05 /TR "python ‪C:\Users\Master\Desktop\daka1.1\daka.py"
+schtasks /Create /TN night /SC DAILY /ST 18:05 /TR "python ‪C:\Users\Master\Desktop\daka1.1\daka.py"
+schtasks /Create /TN night2 /SC DAILY /ST 19:05 /TR "python ‪C:\Users\Master\Desktop\daka1.1\daka.py"
