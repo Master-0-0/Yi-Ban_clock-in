@@ -1,4 +1,4 @@
-# Yi-Ban_clock-in
+# YiBan_clock-in
 <h1>易班校本化-健康自动打卡</h1>
 <h2>简单配置</h2>
 如果运行daka.py提示缺少requests，requests安装：pip install requests<br>
